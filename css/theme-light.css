@@ -1,0 +1,81 @@
+.theme-light {
+  background-color: #ffeecf;
+  background-image: url("/images/cactus-pattern-light-theme.png");
+}
+
+.theme-light .theme-controls input+*[data-icon] {
+  color: #DF80B4;
+  background-color: #ffeecf;
+}
+
+.theme-light .theme-controls {
+  background-color: #ffeecf;
+}
+
+.theme-light .social-links {
+  background-color: #ffeecf;
+}
+
+.theme-light .welcome {
+  color: #019547;
+}
+
+.theme-light .about {
+  color: #019547;
+  border-bottom-color: #019547;
+  background-color: #ffeecf;
+}
+
+.theme-light header {
+  background-color: transparent;
+}
+
+.theme-light h1, .theme-light h2, .theme-light h3 {
+  color: #8DC63F;
+}
+
+.theme-light footer {
+  color: #ffeecf;
+  background-color: #019547;
+}
+
+.theme-light .card {
+  background-color: #06A64F;
+}
+
+.theme-light .card-title {
+  color: #ffeecf;
+  font-size: 40px;
+  text-shadow: 4px 4px 4px black;
+}
+
+.theme-light .card-header {
+  opacity: .9;
+}
+
+.theme-light .tab-container {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #06A64F;
+  color: #FFEECF;
+}
+
+/* Footer Section */
+.theme-light footer {
+  background: #019547;
+}
+
+.theme-light .drawer-handle {
+  background-color: #019547;
+  border-top-color: #FFEECF;
+}
+
+/* drawer hack for the triangle tip */
+.theme-light .drawer-handle::before {
+  background-color: #019547;
+  border-top-color: #FFEECF;
+  border-left-color: #FFEECF;
+}
+
+.theme-light .drawer-content {
+  background-color: #019547;
+}
