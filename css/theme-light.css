@@ -1,6 +1,6 @@
 .theme-light {
   background-color: #ffeecf;
-  background-image: url("/images/cactus-pattern-light-theme.png");
+  background-image: url("images/cactus-pattern-light-theme.png");
 }
 
 .theme-light .theme-controls input+*[data-icon] {
